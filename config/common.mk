@@ -85,6 +85,10 @@ PRODUCT_PACKAGES += \
     SystemDarkThemeOverlay \
     SystemBlackThemeOverlay
 
+# Fonts
+PRODUCT_PACKAGES += \
+    DU-Fonts
+
 # Extra tools
 PRODUCT_PACKAGES += \
     e2fsck \
